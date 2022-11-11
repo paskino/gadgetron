@@ -18,6 +18,7 @@
 #include <mri_core_acquisition_bucket.h>
 #include <random>
 #include <sstream>
+#include <boost/optional/optional_io.hpp>
 
 namespace {
     using namespace Gadgetron;
